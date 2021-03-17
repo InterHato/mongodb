@@ -1,4 +1,4 @@
-# mongo
+# mongodb
  
 Instructions to use:
 
